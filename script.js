@@ -1,17 +1,17 @@
 obj = [
     {
         name :  'Red Velvet Cake',
-        img : "/cake.jpg" ,
+        img : "./images/cake.jpg" ,
         recipe : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet delectus, saepe neque itaque, similique suscipit quisquam nisi maiores labore fuga culpa possimus alias est explicabo dolorem rem quos vero, praesentium quas aspernatur tempore eos pariatur! At, necessitatibus dolores veritatis ad, amet itaque sapiente eum dicta nihil quisquam ratione exercitationem animi obcaecati accusamus vero cumque, dolorem odit blanditiis nam inventore! Ut culpa ex odio aperiam. Ipsa dignissimos aperiam distinctio debitis, voluptates, doloribus asperiores dolorem quos laudantium officiis id optio. Sit expedita quibusdam, asperiores libero, eos deleniti tenetur fugiat quam dolor voluptate quae sed cumque dolorem doloremque et quis voluptatum quas! Totam, quibusdam sequi. Earum incidunt optio tenetur assumenda sapiente cum harum ducimus! Quo natus quos "
     },
     {
         name :  ' Grilled Cheese Sandwich',
-        img : "/sandwitch.jpg",
+        img : "./images/sandwitch.jpg",
         recipe : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet delectus, saepe neque itaque, similique suscipit quisquam nisi maiores labore fuga culpa possimus alias est explicabo dolorem rem quos vero, praesentium quas aspernatur tempore eos pariatur! At, necessitatibus dolores veritatis ad, amet itaque sapiente eum dicta nihil quisquam ratione exercitationem animi obcaecati accusamus vero cumque, dolorem odit blanditiis nam inventore! Ut culpa ex odio aperiam. Ipsa dignissimos aperiam distinctio debitis, voluptates, doloribus asperiores dolorem quos laudantium officiis id optio. Sit expedita quibusdam, asperiores libero, eos deleniti tenetur fugiat quam dolor voluptate quae sed cumque dolorem doloremque et quis voluptatum quas! Totam, quibusdam sequi. Earum incidunt optio tenetur assumenda sapiente cum harum ducimus! Quo natus quos "
     },
     {
         name :  'Red Velvet Cake',
-        img : "/coffe.jpg",
+        img : "./images/coffe.jpg",
         recipe : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet delectus, saepe neque itaque, similique suscipit quisquam nisi maiores labore fuga culpa possimus alias est explicabo dolorem rem quos vero, praesentium quas aspernatur tempore eos pariatur! At, necessitatibus dolores veritatis ad, amet itaque sapiente eum dicta nihil quisquam ratione exercitationem animi obcaecati accusamus vero cumque, dolorem odit blanditiis nam inventore! Ut culpa ex odio aperiam. Ipsa dignissimos aperiam distinctio debitis, voluptates, doloribus asperiores dolorem quos laudantium officiis id optio. Sit expedita quibusdam, asperiores libero, eos deleniti tenetur fugiat quam dolor voluptate quae sed cumque dolorem doloremque et quis voluptatum quas! Totam, quibusdam sequi. Earum incidunt optio tenetur assumenda sapiente cum harum ducimus! Quo natus quo"
     },
 ]
